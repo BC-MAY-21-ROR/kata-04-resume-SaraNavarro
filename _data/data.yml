@@ -17,12 +17,12 @@ sidebar:
   website: NA # No agregar http://
   linkedin: '5729a6180'
   github: SaraNavarro
-  gitlab: NA
-  bitbucket: NA
-  twitter: '@BrightCoders'
-  stack-overflow: NA # Number/Username, e.g. 123456/alandoe
-  codewars: NA
-  goodreads: NA # Number-Username, e.g. 123456-alandoe
+  #gitlab: NA
+  #bitbucket: NA
+  twitter: '@Nextsara'
+  #stack-overflow: NA # Number/Username, e.g. 123456/alandoe
+  #codewars: NA
+  #goodreads: NA # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -50,9 +50,10 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, 
-    posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at 
-    egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+   Ing. en tecnologías de la información.
+   27 años.
+   Entusiasta de la tecnología, me gusta aprender y probar nuevos retos. 
+
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Ing. Tecnologías de la información
@@ -61,44 +62,17 @@ educationcomplete:
     details: |
     Tesis: “Desarrollo de drone híbrido con la placa Udoo Neo como controlador centrla para la empresa Inncomex”.
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      
-        - Ejemplo
-        - Ejemplo
-        - Ejemplo
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-        - Deep learning
-        - Hand Gesture
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
 
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Ingeniero de Soporte 2do y 3er Nivel
+    time: 2017 - Present
+    company: NTT DATA México
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Administración de redes (Datos y VoIP) 
+        - Administración de directorio Activo 
+        - Soporte Remoto a usuario final
+  
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
